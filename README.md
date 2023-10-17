@@ -39,6 +39,6 @@
 <!--
 Add email, LinkedIn, Handshake, Website
 -->
-[<img align="left" alt="LinkedIn" width="48px" height="48px" src="images/linkedin.png">](https://www.linkedin.com/in/lionel-perrault-052605230/)
+[<img align="left" alt="LinkedIn" width="48px" height="48px" src="images/linkedin.png">](https://www.linkedin.com/in/aleksandar-brankovic)
 [<img align="left" alt="Handshake" width="48px" height="48px" src="images/handshake.png">](https://isu.joinhandshake.com/stu/users/13539760)
 [<img align="left" alt="Email" width="48px" height="48px" src="images/email.png">](mailto:LionelPerrault0616@gmail.com)
