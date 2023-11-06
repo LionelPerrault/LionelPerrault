@@ -1,4 +1,4 @@
-## Welcome to my profile, I'm Aleksandar Brankovic
+## Welcome to my profile, I'm Lionel Perrault
 
 ### I wanna get full-time, permanent job.
 - I enjoy software development and making apps
